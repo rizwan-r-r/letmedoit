@@ -37,4 +37,9 @@ joblib>=1.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
 certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
 gradio>=4.18.0 # not directly required, pinned by Snyk to avoid a vulnerability
 aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
+<<<<<< snyk-fix-03afc485a5f187b5a12058be1107f67d
 torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+======
+scikit-learn>=1.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+>>>>>> main
