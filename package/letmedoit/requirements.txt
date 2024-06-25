@@ -38,3 +38,4 @@ certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerabil
 gradio>=4.18.0 # not directly required, pinned by Snyk to avoid a vulnerability
 aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
 scikit-learn>=1.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
